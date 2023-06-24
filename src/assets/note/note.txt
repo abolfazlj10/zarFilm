@@ -1,0 +1,12 @@
+header 
+
+info header and exploreMainBox in file json 
+
+
+jeiran 
+
+{"name" : "جیران" , "img_Header" : "jeiranCover" , "imdb" : 7.6 , "like" : 61 , "title" : "توقیف" , "color" : "#eb8307" , "urlRout" : "/serial/Jeyran" , "srcImgHeader" : "jeyranPuster"},
+
+exploreMainBox 
+
+{"name" : "جیران" , "part" : 9 , "sesion" : 1 , "like" : 80 , "img" : "jeyran_cover" , "urlRout" : "/serial/Jeyran"},
